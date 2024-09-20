@@ -16,7 +16,7 @@
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var mathjs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! mathjs */ \"./node_modules/mathjs/lib/esm/entry/pureFunctionsAny.generated.js\");\nvar moment = __webpack_require__(/*! moment */ \"./node_modules/moment/moment.js\"); // require\n\nconsole.log('heelo from jsad;sfkja;lsdfkjalsdkfj;alsdfjaasdfadsfasd;f');\nconsole.log(moment().format('MMMM Do YYYY, h:mm:ss a'));\nconsole.log((0,mathjs__WEBPACK_IMPORTED_MODULE_0__.sqrt)(4).toString()); // 2i\n\nconsole.log(\"actualize cohort\");\nconsole.log('k dskjcn');\n\n//# sourceURL=webpack://modern-javascript/./index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var mathjs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! mathjs */ \"./node_modules/mathjs/lib/esm/entry/pureFunctionsAny.generated.js\");\nvar moment = __webpack_require__(/*! moment */ \"./node_modules/moment/moment.js\"); // require\n\nconsole.log('heelos kj∂∫˜cjk≈bncdkdxzbkj');\nconsole.log(moment().format('MMMM Do YYYY, h:mm:ss a'));\nconsole.log((0,mathjs__WEBPACK_IMPORTED_MODULE_0__.sqrt)(4).toString()); // 2i\n\nconsole.log(\"actualize cohort\");\nconsole.log('k dskjcn');\nconsole.log('bobery');\nconsole.log('grow');\nconsole.log('bababababababababa');\nconsole.log('car');\n\n//# sourceURL=webpack://modern-javascript/./index.js?");
 
 /***/ }),
 
